@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE contaopackage>
+<extension name="jquery-smooth-scroll" date="20130502">
+    <author user="initart" name="Eike Schuderer" website="http://www.preview.initart.com/contao" />
+    <copyright>jQuery Smooth Scroll Copyright &amp;copy; 2013 Karl Swedberg, Contao Extension Copyright &amp;copy; 2013 Eike Schuderer</copyright>
+    <license>MIT</license>
+    <classification type="free" category="plugin" />
+    <release version="10000000" build="1" date="20130502" />
+    <contao minversion="30000009" maxversion="30010009" />
+    <language code="de">
+        <translator user="initart" name="Eike Schuderer" website="http://www.preview.initart.com/contao" />
+        <title>jQuery Smooth Scroll Plugin</title>
+        <teaser>Weiches scrollen fuer Links.</teaser>
+        <manual link="https://github.com/kswedberg/jquery-smooth-scroll" />
+    </language>
+    <language code="en">
+        <translator user="initart" name="Eike Schuderer" website="http://www.preview.initart.com/contao" />
+        <title>jQuery Smooth Scroll Plugin</title>
+        <teaser>Smooth scrolling for links.</teaser>
+        <manual link="https://github.com/kswedberg/jquery-smooth-scroll" />
+    </language>
+</extension>
